@@ -2,7 +2,7 @@
 
 This project repo is for MoveHack Hackathon conducted by Niti Ayog, Government of India
 
-Check above Jupyter notebooks for solution overview.
+Check below Jupyter notebooks for solution overview.
 
 Data cleaning and processing: [data_processing.ipynb](https://github.com/ajinkyaT/Deep_learning_Entity_Embeddings/blob/master/data_processing.ipynb)
 
