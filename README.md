@@ -8,7 +8,7 @@ Data cleaning and processing: [data_processing.ipynb](https://github.com/ajinkya
 
 Model architecture: [model_building.ipynb](https://github.com/ajinkyaT/Deep_learning_Entity_Embeddings/blob/master/model_building.ipynb)
 
-Visualizing trained embeddings: [embedding_visualization.ipynb](https://github.com/ajinkyaT/Deep_learning_Entity_Embeddings/blob/master/embedding_visualization.ipynb)
+Visualizing trained embeddings: [embedding_visualization.ipynb (Plotly visualizations are not rendered properly)](https://github.com/ajinkyaT/Deep_learning_Entity_Embeddings/blob/master/embedding_visualization.ipynb) instead download [embedding_visualization.html](https://github.com/ajinkyaT/Deep_learning_Entity_Embeddings/blob/master/embedding_visualization.html) and open it locally in the browser
 
 Visualizing Route-Name Embeddings: [https://plot.ly/~ajinkyaT/5/](https://plot.ly/~ajinkyaT/5/)
 
