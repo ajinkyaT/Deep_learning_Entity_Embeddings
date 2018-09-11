@@ -1,4 +1,4 @@
-# Deep Learning and Entity Embeddings to predict driving behavior and accident hotspots
+# Deep Learning and Entity Embeddings to predict driving behavior and cluster accident hotspots
 
 This project repo is for MoveHack Hackathon conducted by Niti Ayog, Government of India
 
