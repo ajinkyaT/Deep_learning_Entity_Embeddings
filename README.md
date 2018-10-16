@@ -1,6 +1,6 @@
 # Deep Learning and Entity Embeddings to predict driving behavior and cluster accident hotspots
 
-This project repo is for MoveHack - Global Mobility Hackathon organized by Niti Aayog (Planning Commision of India), Government of India
+This project repo is for Pune Smart City HAckathon organized by Niti Aayog (Planning Commision of India), Government of India
 
 Check below Jupyter notebooks for solution overview.
 
